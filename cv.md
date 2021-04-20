@@ -2,7 +2,6 @@
 
 # Contacts
   [GitHub](https://github.com/SkMAIL13)  
-  [Email](kizmhtc@gmail.com)  
   [Telegram](https://t.me/kamranspb)  
   Discord : SkMAIL#1457
   
