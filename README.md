@@ -1,1 +1,1 @@
-# Rs School-cv
+https://skmail13.github.io/rsschool-cv/cv
