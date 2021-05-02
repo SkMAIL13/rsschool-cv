@@ -44,7 +44,7 @@ if (required > 0) {
 
 - Cross-browser & adaptive website coding
 - Сompleted HTML Academy course
-- [Completed JS 2.0 Cource](https://github.com/SkMAIL13/JS-2.0)
+- [Completed JS 2.0 Course](https://github.com/SkMAIL13/JS-2.0)
 
 # Education
 
