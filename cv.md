@@ -19,6 +19,7 @@ Wanna make a _great product_ for everybody. It sounds intersting. I'm Junior Dev
 - Gulp
 - Vs Code / WebStorm
 - Photoshop / Figma
+- MACoS/ Windows/ Linux
 
 # Code example
 
