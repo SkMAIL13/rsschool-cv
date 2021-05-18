@@ -18,6 +18,7 @@ Wanna make a _great product_ for everybody. It sounds intersting. I'm Junior Dev
 - SCSS
 - Gulp
 - Vs Code / WebStorm
+- Postman
 - Photoshop / Figma
 - MACoS/ Windows/ Linux
 
